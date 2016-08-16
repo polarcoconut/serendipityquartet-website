@@ -16,6 +16,11 @@ a:hover {
     color: blue;
 }
 
+.member_pic {
+    width: 200px;
+    height: 200px;
+}
+
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
