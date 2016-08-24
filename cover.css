@@ -9,12 +9,27 @@ a:hover {
   color: #fff;
 }
 
-.video-link {
-    color: blue;
+.video-link,
+.video-link:focus,
+.video-link:visited,
+.video-link:hover,
+.video-link:active {
+    /*color: #3598DB;*/
+    color: black;
+    border-bottom: 1px dotted;
+    text-decoration: none;
+
 }
+
+
+.video-link:hover {
+    text-decoration: none;
+}
+
+/*
 .video-link:hover {
     color: blue;
-}
+}*/
 
 .member_pic {
     width: 200px;
