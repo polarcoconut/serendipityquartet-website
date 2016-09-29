@@ -20,16 +20,26 @@ a:hover {
     text-decoration: none;
 
 }
-
-
 .video-link:hover {
     text-decoration: none;
 }
 
-/*
-.video-link:hover {
-    color: blue;
-}*/
+
+.reg-link,
+.reg-link:focus,
+.reg-link:visited,
+.reg-link:hover,
+.reg-link:active {
+    /*color: #3598DB;*/
+    color: black;
+    border-bottom: 1px dotted;
+    text-decoration: none;
+
+}
+.reg-link:hover {
+    text-decoration: none;
+}
+
 
 .member_pic {
     width: 200px;
