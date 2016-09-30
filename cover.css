@@ -46,6 +46,10 @@ a:hover {
     height: 200px;
 }
 
+.member_pic_column {
+    padding-bottom: 10px;
+}
+
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
